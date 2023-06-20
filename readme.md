@@ -60,3 +60,9 @@ npm run server
 cd frontend
 npm run build
 ```
+
+
+## My changes
+1. add docker-compose.yaml
+2. replace using of environment variables (mongo URI and secret key)
+3. for mongodb from container use another URI, not like Traversy
