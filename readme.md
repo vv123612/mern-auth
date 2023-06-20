@@ -66,3 +66,4 @@ npm run build
 1. add docker-compose.yaml
 2. replace using of environment variables (mongo URI and secret key)
 3. for mongodb from container use another URI, not like Traversy
+4. change vite.config.js - add host flag for work on browser on host machine
